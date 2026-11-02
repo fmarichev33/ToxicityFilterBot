@@ -21,8 +21,8 @@ Telegram-бот для автоматической модерации комм�
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/fmarichev/ToxicityFilterBot.git](https://github.com/your-username/SpamFilterBot.git)
-   cd SpamFilterBot
+   git clone [https://github.com/fmarichev/ToxicityFilterBot.git](https://github.com/your-username/ToxicityFilterBot.git)
+   cd ToxicityFilterBot
 2. Создайте и активируйте виртуальное окружение:
    python -m venv .venv
    source .venv/bin/activate  # для Linux/macOS
